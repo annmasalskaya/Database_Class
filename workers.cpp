@@ -8,7 +8,7 @@ Workers::Workers(string surname1,int day1, int month1, int year1, int experience
 
 Workers::~Workers()
 {
-    //delete surname;
+    surname='\0';
     experience=0;
     salary=0;
 
