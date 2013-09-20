@@ -1,7 +1,6 @@
 #include "func.h"
 #include <fstream>
 #include <cstdlib>
-#include <iomanip>
 
 
 void createBase(Workers *mass,int N)
